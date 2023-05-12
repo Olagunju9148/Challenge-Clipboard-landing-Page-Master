@@ -387,19 +387,7 @@ a:hover {
         display: inline-block;
     }
    
-    .btn-one:hover {
-        opacity: 0.9;
-    }
-
-    .btn-two:hover{
-        opacity: 0.9;
-    }
-
-    .btn-three:hover {
-        opacity: 0.9;
-    }
-
-    .btn-four:hover{
+    .btn:hover {
         opacity: 0.9;
     }
 }
